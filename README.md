@@ -1,7 +1,10 @@
 # app_expansion_animation_implicit
 
-A new Flutter project.
+A Flutter project of a Flutterando masterclass expansion animation implicits challenge
 
+<p float="left">
+  <img src="screenshot\screenshot.gif" width="200">
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
